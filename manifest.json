@@ -1,0 +1,26 @@
+{
+	"format_version": 2,
+	"header": {
+		"name": "git-practice",
+		"description": "",
+		"version": [1, 0, 0],
+		"uuid": "42644d33-5aea-4980-82cd-a8560b3b23c2",
+		"min_engine_version": [1, 21, 0]
+	},
+	"modules": [
+		{
+			"type": "script",
+			"description": "",
+			"version": [2, 0, 0],
+			"uuid": "b3056b7c-ea1f-4cac-822c-6cfb1d5e5ae5",
+			"language": "javascript",
+			"entry": "scripts/main.js"
+		}
+	],
+	"dependencies": [
+		{
+			"module_name": "@minecraft/server",
+			"version": "2.0.0"
+		}
+	]
+}
