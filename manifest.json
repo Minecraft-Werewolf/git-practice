@@ -1,7 +1,7 @@
 {
 	"format_version": 2,
 	"header": {
-		"name": "サバアドオン",
+		"name": "git-practice",
 		"description": "",
 		"version": [1, 0, 0],
 		"uuid": "42644d33-5aea-4980-82cd-a8560b3b23c2",
